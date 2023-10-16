@@ -20,7 +20,7 @@
 
     1.  **КОД**:
 
-        ```Matlab
+        ```matlab
         func = @(x, y) (log(sin(x * pi / 8)) + x^2 + sqrt(2 * x - 2)) / 2 ^ y;
 
         display("1")
